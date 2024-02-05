@@ -1,25 +1,19 @@
 # 👋 Olá! Seja bem-vindo ao meu perfil.
 
 <h4>
-Sou formada em marketing e apaixonada por tecnologia, e encontrei na análise de dados a junção perfeita para alcançar alta performance.
+Sou formada em marketing e apaixonada por tecnologia. Encontrei na análise de dados a junção perfeita para alcançar alta performance.
+Marketing expertise, agora decodificando dados e transformando-os em insights e estratégias poderosas para obter melhores resultados.
 </h4><br/>
-
-<div>
-<a href="https://github.com/crislanecas">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=crislanecas&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crislanecas&layout=compact&langs_count=7&theme=holi"/>
-</div>
-
-<br/>
-<br/>
 
 # Estou estudando
 
 ## Linguagens
 <div>
 <img loading="lazy" alt=python src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> 
-<img loading="lazy" alt=sql src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" width="50" height="50"/> 
-<img loading="lazy" alt=r src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40" height="40"/>  
+<img loading="lazy" alt=sql src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" width="50" height="50"/>
+<!--
+<img loading="lazy" alt=r src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40" height="40"/> 
+!-->
 </div>
 
 ## Bibliotecas
@@ -47,4 +41,11 @@ Sou formada em marketing e apaixonada por tecnologia, e encontrei na análise de
 <!--
 <img loading="lazy" alt=jupyter src="https://upload.wikimedia.org/wikipedia/commons/4/42/TableauLogo.jpg" width="40" height="40"/>
 !-->
+</div><br/><br/>
+
+# Meus números
+<div>
+<a href="https://github.com/crislanecas">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=crislanecas&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crislanecas&layout=compact&langs_count=7&theme=holi"/>
 </div>

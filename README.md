@@ -47,11 +47,4 @@ Sou formada em marketing e apaixonada por tecnologia, e encontrei na análise de
 <!--
 <img loading="lazy" alt=jupyter src="https://upload.wikimedia.org/wikipedia/commons/4/42/TableauLogo.jpg" width="40" height="40"/>
 !-->
-</div><br/>
-
-<br/>
-<br/>
-
-## Meu contato:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislane-silva/)
+</div>

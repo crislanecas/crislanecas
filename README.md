@@ -11,9 +11,7 @@ Marketing expertise, agora decodificando dados e transformando-os em insights e 
 <div>
 <img loading="lazy" alt=python src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> 
 <img loading="lazy" alt=sql src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" width="50" height="50"/>
-<!--
 <img loading="lazy" alt=r src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40" height="40"/> 
-!-->
 </div>
 
 ## Bibliotecas

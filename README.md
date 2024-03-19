@@ -14,7 +14,7 @@ Marketing expertise, agora decodificando dados e transformando-os em insights e 
 <img loading="lazy" alt=r src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40" height="40"/> 
 </div>
 
-## Bibliotecas
+## Bibliotecas Python
 <div>
 <img loading="lazy" alt=pandas src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
 <img loading="lazy" alt=numpy src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>  

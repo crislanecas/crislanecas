@@ -48,3 +48,8 @@ Marketing expertise, agora decodificando dados e transformando-os em insights e 
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crislanecas&layout=compact&langs_count=7&theme=holi"/>
 </div>
 
+## Meus contatos:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislane-silva/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crislane.silva@gmail.com)
+

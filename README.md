@@ -5,7 +5,7 @@ Sou formada em marketing e apaixonada por tecnologia. Encontrei na análise de d
 Marketing expertise, agora decodificando dados e transformando-os em insights e estratégias poderosas para obter melhores resultados.
 </h4><br/>
 
-# Estou estudando
+# Conhecimentos
 
 ## Linguagens
 <div>

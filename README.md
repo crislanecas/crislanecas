@@ -27,7 +27,7 @@ Marketing expertise, agora decodificando dados e transformando-os em insights e 
 ## Banco de dados e outros armazenamentos
 <div>
 <img loading="lazy" alt=mysql src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> 
-<img loading="lazy" alt=bigquery src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Tabler-icons_brand-google-big-query.svg" width="40" height="40"/> 
+<img loading="lazy" alt=bigquery src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40" height="40"/> 
 </div><br/>
 
 ## Ferramentas e Tecnologias
@@ -35,7 +35,8 @@ Marketing expertise, agora decodificando dados e transformando-os em insights e 
 <img loading="lazy" alt=vscode src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" alt=colaboratory src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="60" height="40"/>
 <img loading="lazy" alt=jupyter src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
-<img loading="lazy" alt=databriks src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="80" height="40"/>
+<img loading="lazy" alt=databriks src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="80" height="40"/>
+<img loading="lazy" alt=googlecloud src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
 <!--
 <img loading="lazy" alt=jupyter src="https://upload.wikimedia.org/wikipedia/commons/4/42/TableauLogo.jpg" width="40" height="40"/>
 !-->

@@ -7,7 +7,7 @@ Marketing expertise, agora decodificando dados e transformando-os em insights e 
 </h4><br/>
 
 <div align="center">
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4D4)](https://www.linkedin.com/in/crislane-silva/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D4D4)](https://crislanecas.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D4D4)](https://github.com/crislanecas)
@@ -58,4 +58,4 @@ Marketing expertise, agora decodificando dados e transformando-os em insights e 
 
 
 # Meus números
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=crislanecas&hide_border=true&background=0D1117&stroke=30363D&ring=00D4D4&fire=00D4D4&currStreakNum=FFFFFF&sideNums=B8C4C4&currStreakLabel=00D4D4&sideLabels=9AA6A6&dates=687777)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=crislanecas&locale=pt_BR&hide_border=true&background=0D1117&stroke=30363D&ring=00D4D4&fire=00D4D4&currStreakNum=FFFFFF&sideNums=B8C4C4&currStreakLabel=00D4D4&sideLabels=9AA6A6&dates=687777)](https://git.io/streak-stats)

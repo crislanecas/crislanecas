@@ -1,56 +1,61 @@
-# 👋 Olá! Seja bem-vindo ao meu perfil.
+👋 Olá! Seja bem-vindo ao meu perfil.
 
 <h4>
-Sou formada em marketing e apaixonada por tecnologia. Encontrei na análise de dados a junção perfeita para alcançar alta performance.
+Sou formada em Publicidade com pós em Marketing e atualmente cursando Ciência de Dados na Univesp. Apaixonada por tecnologia, encontrei na análise de dados a junção perfeita entre negócios e dados para alcançar alta performance.
+
 Marketing expertise, agora decodificando dados e transformando-os em insights e estratégias poderosas para obter melhores resultados.
 </h4><br/>
 
-# Conhecimentos
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4D4)](https://www.linkedin.com/in/crislane-silva/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D4D4)](https://crislanecas.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D4D4)](https://github.com/crislanecas)
+<!--[![E-mail](https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=00D4D4)](mailto:crislane.silva@gmail.com)-->
+</div><br/>
+
+# Tecnologias & Ferramentas
 ## Linguagens
 <div>
-<img loading="lazy" alt=python src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> 
-<img loading="lazy" alt=sql src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" width="50" height="50"/>
-<img loading="lazy" alt=r src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="40" height="40"/> 
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" alt="SQL" width="50" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/> 
+</div><br/>
 
 ## Bibliotecas Python
 <div>
-<img loading="lazy" alt=pandas src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-<img loading="lazy" alt=numpy src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>  
-<img loading="lazy" alt=matplotlib src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40"/> 
-<img loading="lazy" alt=seaborn src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40"/> 
-<img loading="lazy" alt=scikit_learn src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/> 
-<img loading="lazy" alt=scipy src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt='Numpy' width="40" height="40"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/> 
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="Scipy" width="40" height="40"/> 
 </div><br/>
 
-## Banco de dados e outros armazenamentos
+## Banco de Dados e outros
 <div>
-<img loading="lazy" alt=mysql src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/> 
-<img loading="lazy" alt=bigquery src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" alt="Google BigQuery" width="40" height="40" /> 
 </div><br/>
 
-## Ferramentas e Tecnologias
+## Visualização e BI
 <div>
-<img loading="lazy" alt=vscode src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="40" height="40"/>
-<img loading="lazy" alt=colaboratory src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="60" height="40"/>
-<img loading="lazy" alt=jupyter src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
-<img loading="lazy" alt=databriks src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="80" height="40"/>
-<img loading="lazy" alt=googlecloud src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40"/>
-<!--
-<img loading="lazy" alt=jupyter src="https://upload.wikimedia.org/wikipedia/commons/4/42/TableauLogo.jpg" width="40" height="40"/>
-!-->
-</div><br/><br/>
+<img src="https://msicons.com/icons/fabric/power_bi_color.svg" width="40" height="40" alt="Power BI"/>
+<img src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" width="40" height="40" alt="Data Studio"/>
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/looker/default.svg" alt="Looker" width="40" height="40"/>
+</div><br/>
+
+## Outras
+<div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="VS Code" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="60" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/databricks/default.svg" alt="Databricks" width="80" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</div><br/><br/> <br/>
+
 
 # Meus números
-<div>
-<a href="https://github.com/crislanecas">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=crislanecas&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crislanecas&layout=compact&langs_count=7&theme=holi"/>
-</div><br/><br/>
-
-## Meus contatos:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crislane-silva/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:crislane.silva@gmail.com)
-
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=crislanecas&hide_border=true&background=0D1117&stroke=30363D&ring=00D4D4&fire=00D4D4&currStreakNum=FFFFFF&sideNums=B8C4C4&currStreakLabel=00D4D4&sideLabels=9AA6A6&dates=687777)

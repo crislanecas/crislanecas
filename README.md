@@ -1,6 +1,6 @@
 <h2>
 
-👋 Olá! Seja bem-vindo ao meu perfil.
+Seja bem-vindo ao meu perfil.
 
 </h2>
 
@@ -14,17 +14,17 @@ Atualmente, venho aprofundando meus conhecimentos em SQL, Python, Machine Learni
 
 
 
-## 🎯 Áreas de interesse
-- 📊 Análise de Dados
-- 💼 Business Intelligence
-- 📈 Data Analytics
-- 🌐 Digital Analytics
-- 📊 Visualização de Dados
-- 🤖 Machine Learning
-- 🧠 Inteligência Artificial
+## Áreas de interesse
+📊 Análise de Dados<br>
+💼 Business Intelligence<br>
+📈 Data Analytics<br>
+🌐 Digital Analytics<br>
+📊 Visualização de Dados<br>
+🤖 Machine Learning<br>
+🧠 Inteligência Artificial
 <br/><br/>
 
-## 🔗 Meus links
+## Meus links
 
 <div >
 
@@ -33,7 +33,7 @@ Atualmente, venho aprofundando meus conhecimentos em SQL, Python, Machine Learni
 </div><br/>
 
 
-## 🚀 Projeto em destaque
+## Projeto em destaque
 
 ### LH Nautical — Análise de Dados e Sistema de Recomendação
 
@@ -41,12 +41,12 @@ Projeto de dados ponta a ponta que reúne análise exploratória, estruturação
 
 **Tecnologias:** SQL, PostgreSQL, Python (Pandas, NumPy e Scikit-learn), Power BI e DAX.
 
-[![Ver projeto](https://img.shields.io/badge/Ver%20projeto-0D1117?style=for-the-badge&logo=link&logoColor=00D4D4)](https://github.com/crislanecas/lh-nautical)
+[![Ver projeto](https://img.shields.io/badge/Ver%20projeto-0D1117?style=for-the-badge&logo=link&logoColor)](https://github.com/crislanecas/lh-nautical)
 
 <br/>
 
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Linguagens
 
@@ -246,6 +246,6 @@ Projeto de dados ponta a ponta que reúne análise exploratória, estruturação
 <br/><br/>
 
 
-## 📊 Meus números
+## Meus números
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=crislanecas&theme=dark&locale=pt_BR&hide_border=true)](https://git.io/streak-stats)

@@ -4,7 +4,7 @@
 
 </h2>
 
-Sou formada em Publicidade, com pós-graduada em Gestão de Marketing e atualmente curso Ciência de Dados na UNIVESP.
+Sou formada em Publicidade, com pós-graduação em Gestão de Marketing, e atualmente curso Ciência de Dados na UNIVESP.
 
 Minha trajetória de mais de 10 anos em Marketing evoluiu para a área de Dados, unindo conhecimento de negócio, análise e tecnologia para transformar dados em insights que apoiem decisões e gerem resultados.
 
@@ -12,10 +12,9 @@ Tenho experiência prática com SQL, Python, Google Analytics 4 (GA4) e Google D
 
 Atualmente, venho aprofundando meus conhecimentos em SQL, Python, Machine Learning e Inteligência Artificial.
 
-<br>
 
-# 🎯 Áreas de interesse
 
+## 🎯 Áreas de interesse
 - 📊 Análise de Dados
 - 💼 Business Intelligence
 - 📈 Data Analytics
@@ -25,14 +24,16 @@ Atualmente, venho aprofundando meus conhecimentos em SQL, Python, Machine Learni
 - 🧠 Inteligência Artificial
 <br/><br/>
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4D4)](https://www.linkedin.com/in/crislane-silva/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00D4D4)](https://crislanecas.github.io/)
+## 🔗 Meus links
+
+<div >
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor)](https://www.linkedin.com/in/crislane-silva/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=link&logoColor)](https://crislanecas.github.io/)
 </div><br/>
 
 
-# 🚀 Projeto em destaque
+## 🚀 Projeto em destaque
 
 ### LH Nautical — Análise de Dados e Sistema de Recomendação
 
@@ -40,14 +41,14 @@ Projeto de dados ponta a ponta que reúne análise exploratória, estruturação
 
 **Tecnologias:** SQL, PostgreSQL, Python (Pandas, NumPy e Scikit-learn), Power BI e DAX.
 
-[![Ver projeto](https://img.shields.io/badge/Ver%20projeto-0D1117?style=for-the-badge&logo=github&logoColor=00D4D4)](https://github.com/crislanecas/lh-nautical)
+[![Ver projeto](https://img.shields.io/badge/Ver%20projeto-0D1117?style=for-the-badge&logo=link&logoColor=00D4D4)](https://github.com/crislanecas/lh-nautical)
 
 <br/>
 
 
-# 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
-## Linguagens
+### Linguagens
 
 <div>
 
@@ -77,7 +78,7 @@ Projeto de dados ponta a ponta que reúne análise exploratória, estruturação
 
 <br/>
 
-## Bibliotecas Python
+### Bibliotecas Python
 
 <div>
 
@@ -128,7 +129,7 @@ Projeto de dados ponta a ponta que reúne análise exploratória, estruturação
 
 <br/>
 
-## Banco de Dados e outros
+### Banco de Dados e outros
 
 <div>
 
@@ -158,7 +159,7 @@ Projeto de dados ponta a ponta que reúne análise exploratória, estruturação
 
 <br/>
 
-## Visualização e BI
+### Visualização e BI
 
 <div>
 
@@ -178,8 +179,8 @@ Projeto de dados ponta a ponta que reúne análise exploratória, estruturação
 />
 <img
   src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/looker/default.svg"
-  alt="Ícone do Looker"
-  title="Looker"
+  alt="Ícone do Looker Studio"
+  title="Looker Studio"
   width="30"
   height="30"
 />
@@ -193,7 +194,7 @@ Projeto de dados ponta a ponta que reúne análise exploratória, estruturação
 
 </div>
 
-## Outras
+### Outras
 
 <div>
 
@@ -245,6 +246,6 @@ Projeto de dados ponta a ponta que reúne análise exploratória, estruturação
 <br/><br/>
 
 
-# Meus números
+## 📊 Meus números
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=crislanecas&locale=pt_BR&hide_border=true&background=0D1117&stroke=30363D&ring=00D4D4&fire=00D4D4&currStreakNum=FFFFFF&sideNums=B8C4C4&currStreakLabel=00D4D4&sideLabels=9AA6A6&dates=687777)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=crislanecas&theme=dark&locale=pt_BR&hide_border=true)](https://git.io/streak-stats)

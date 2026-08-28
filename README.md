@@ -32,7 +32,7 @@ Atualmente, venho aprofundando meus conhecimentos em SQL, Python, Machine Learni
 [![Portfólio](https://img.shields.io/badge/Portfólio-0D1117?style=for-the-badge&logo=link&logoColor)](https://crislanecas.github.io/)
 </div><br/>
 
-
+<!--
 ## Projeto em destaque
 
 ### LH Nautical — Análise de Dados e Sistema de Recomendação
@@ -42,7 +42,7 @@ Projeto de dados ponta a ponta que reúne análise exploratória, estruturação
 **Tecnologias:** SQL, PostgreSQL, Python (Pandas, NumPy e Scikit-learn), Power BI e DAX.
 
 [![Ver projeto](https://img.shields.io/badge/Ver%20projeto-0D1117?style=for-the-badge&logo=link&logoColor)](https://github.com/crislanecas/lh-nautical)
-
+-->
 <br/>
 
 
